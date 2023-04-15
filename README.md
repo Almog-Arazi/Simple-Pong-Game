@@ -27,4 +27,6 @@ hit.ogg: Sound effect for ball hits
 How to Run
 To run the game, you'll need to install Python and the Pygame library. Once you have these installed, simply execute the script, and the game will start. To close the game, press the close button on the game window.
 
+![](https://i.ibb.co/TL1QRV0/2023-04-16-002752.pngg)
+
 **ENJOY PLAYING THIS SIMPLE PONG GAME**
